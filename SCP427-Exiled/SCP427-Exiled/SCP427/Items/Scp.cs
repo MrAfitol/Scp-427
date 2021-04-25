@@ -10,7 +10,7 @@ namespace SCP427.Items
 {
     public class Scp : CustomItem
     {
-        public override uint Id { get; set; } = 12;
+        public override uint Id { get; set; } = 16;
 
         public override string Name { get; set; } = "SCP-427";
 

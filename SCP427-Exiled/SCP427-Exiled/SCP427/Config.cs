@@ -23,7 +23,7 @@ namespace SCP427
 
         public string ItemConfigFolder { get; set; } = Path.Combine(Paths.Configs, "CustomItems");
 
-        public string ItemConfigFile { get; set; } = "global.yml";
+        public string ItemConfigFile { get; set; } = "scp427.yml";
 
         public void LoadItems()
         {
