@@ -1,5 +1,5 @@
 # Scp-427
-These are additions to the [CustomItems](https://github.com/Exiled-Team/CustomItems) plugin
+**These are additions to the [CustomItems](https://github.com/Exiled-Team/CustomItems) plugin**
 
 This plugin is compatible with SCP-008, so it can also be used to treat SCP-008
 ***
