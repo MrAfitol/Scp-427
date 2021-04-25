@@ -1,2 +1,4 @@
 # Scp-427
-This plugin adds SCP-427
+These are additions to the [CustomItems](https://github.com/Exiled-Team/CustomItems) plugin
+***
+# Config
