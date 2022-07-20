@@ -3,7 +3,7 @@
 
 This plugin is compatible with SCP-008, so it can also be used to treat SCP-008
 
-*This is my first plugin, if there are bugs in it, write to me, I will be grateful to you*
+***This is my first plugin, if there are bugs in it, write to me, I will be grateful to you***
 ***
 # Item
 ItemName | ItemID | Description
